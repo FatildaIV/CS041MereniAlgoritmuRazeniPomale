@@ -1,0 +1,10 @@
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\bin\Debug\CS051DynamickeKomponenty.exe.config
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\bin\Debug\CS051DynamickeKomponenty.exe
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\bin\Debug\CS051DynamickeKomponenty.pdb
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\obj\Debug\CS054HraChytniCheckBox.csprojAssemblyReference.cache
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\obj\Debug\CS051DynamickeKomponenty.DynamickeKomponentyForm.resources
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\obj\Debug\CS051DynamickeKomponenty.Properties.Resources.resources
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\obj\Debug\CS054HraChytniCheckBox.csproj.GenerateResource.cache
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\obj\Debug\CS054HraChytniCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\obj\Debug\CS051DynamickeKomponenty.exe
+C:\Users\Dominik\Desktop\Visual\CS053DynamickeKomponenty\CS051DynamickeKomponenty\obj\Debug\CS051DynamickeKomponenty.pdb
